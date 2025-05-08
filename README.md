@@ -23,6 +23,7 @@ Android Internal ImGui Mod Menu Template with remap hide
 
 
 # Credits
+FIXED 15 ANDROID BY BLITCHCORE <br />
 ImGui by ocornut: https://github.com/ocornut/imgui <br />
 DobbyHook by jmpwes: https://github.com/jmpews/Dobby <br />
 KittyMemory by MJx0: https://github.com/MJx0/KittyMemory <br />
