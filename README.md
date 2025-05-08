@@ -31,8 +31,7 @@ OpenGL Test by JimSeker: https://github.com/JimSeker/opengl/tree/master <br />
 ImGui Touch by fedes1to: https://github.com/fedes1to/Zygisk-ImGui-Menu <br />
 
 # Contact
-Telegram Group: https://t.me/reveny1 <br>
-Telegram Contact: https://t.me/revenyy
+Telegram Contact: https://t.me/silencode <br />
 
 # Preview
  ![image](https://github.com/reveny/Android-ImGui-Mod-Menu/blob/main/img/ezgif.com-video-cutter%20(1).gif)
